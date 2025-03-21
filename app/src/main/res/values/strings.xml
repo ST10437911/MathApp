@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Math App</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="todo">TODO</string>
+    <string name="answer">Answer</string>
+    <string name="calculate">Calculate</string>
+    <string name="result_will_be_shown_here">Result will be shown here</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="enter_secondnumber">Enter second number</string>
+    <string name="enter_firstnumber">Enter first number</string>
+    <string name="result">Result:</string>
+    <string name="calculatee">Calculate</string>
+    <string name="addition">Addition</string>
+    <string name="division">Division</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="subtraction">Subtraction</string>
+</resources>
